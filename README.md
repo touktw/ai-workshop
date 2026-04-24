@@ -19,17 +19,17 @@ AI에게 원하는 것을 설명하면, AI가 코드를 만들어 줍니다.
 
 ### 기초편
 
-1. [Cursor 가입 및 설치하기](01.커서-가입-및-설치.md)
-2. [맥 개발환경 세팅하기](02.맥-개발환경-세팅.md) — 터미널, Homebrew, Node.js/npm
-3. [첫 번째 프로젝트 만들기](03.첫-프로젝트-만들기.md)
-4. [할 일 목록 앱 만들기](04.할일목록-앱-만들기.md)
-5. [브라우저에서 확인하기](05.브라우저에서-확인하기.md)
+- [Cursor 가입 및 설치하기](01.커서-가입-및-설치.md)
+- [맥 개발환경 세팅하기](02.맥-개발환경-세팅.md) — 터미널, Homebrew, Node.js/npm
+- [첫 번째 프로젝트 만들기](03.첫-프로젝트-만들기.md)
+- [할 일 목록 앱 만들기](04.할일목록-앱-만들기.md)
+- [브라우저에서 확인하기](05.브라우저에서-확인하기.md)
 
 ### 🤖 Claude Code 활용하기
 
-6. [Claude Code 시작하기](06.Claude-Code-시작하기.md)
-7. [터미널로 Claude Code 사용하기](07.터미널로-Claude-Code-사용하기.md)
-8. [Cursor에서 Claude Code 사용하기](08.Cursor에서-Claude-Code-사용하기.md)
+- [Claude Code 시작하기](06.Claude-Code-시작하기.md)
+- [터미널로 Claude Code 사용하기](07.터미널로-Claude-Code-사용하기.md)
+- [Cursor에서 Claude Code 사용하기](08.Cursor에서-Claude-Code-사용하기.md)
 
 ### ⚙️ Claude Code 심화편
 
